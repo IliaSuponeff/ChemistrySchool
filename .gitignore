@@ -15,3 +15,12 @@ __cache__/
 # Virtual env
 .venv/
 venv/
+
+## App runtime files
+
+# Database of SQLite
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+
