@@ -1,3 +1,17 @@
+## IDE files and dirs
+
+# VS-Code
 .vscode/
+
+# Jet Brains
 .idea/
 *iml
+
+## Python files and dirs
+
+# Cache
+__cache__/
+
+# Virtual env
+.venv/
+venv/
