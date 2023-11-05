@@ -1,3 +1,8 @@
 from django.db import models
 
-# Create your models here.
+
+class Post(models.Model):
+    title = models.CharField(max_length=200)
+    description = models.TextField()
+    link = models.CharField(max_length=200)
+    publication_date = models.DateTimeField()
