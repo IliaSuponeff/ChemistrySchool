@@ -8,4 +8,4 @@ TODO: Add view of representation of posts at db
 
 
 def index(request):
-    return HttpResponse("Hello, world. You're at the polls index.")
+	return HttpResponse("Hello, world. You're at the polls index.")
