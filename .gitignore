@@ -10,7 +10,7 @@
 ## Python files and dirs
 
 # Cache
-__cache__/
+__pycache__/
 
 # Virtual env
 .venv/
